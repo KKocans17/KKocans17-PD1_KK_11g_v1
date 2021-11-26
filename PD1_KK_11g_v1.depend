@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637911267 source:z:\prog_darbi\pd1_kk_11g_v1\main.cpp
+	<iostream>
+	<ctime>
+
